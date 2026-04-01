@@ -56,9 +56,6 @@ Python, C++, MATLAB, Docker, Git, Linux, MLflow, CI/CD, AWS, Azure
 - Applied AI Systems
 - MLOps and Production ML
 
-## Currently
-
-I’m organizing my repositories to better present projects in machine learning, computer vision, robotics, and applied AI.
 
 ## Connect With Me
 
