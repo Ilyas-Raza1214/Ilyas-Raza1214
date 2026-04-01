@@ -31,17 +31,20 @@ PyTorch, TensorFlow, scikit-learn, deep learning, model training, evaluation, pr
 OpenCV, YOLOv5, U-Net, object detection, image segmentation, image analysis, scientific imaging
 
 **Robotics**  
-Robot learning, reinforcement learning, robotic grasping, robotic manipulation, simulation, ROS, NVIDIA Isaac Gym, PyBullet
+Robot learning, reinforcement learning, robotic grasping, robotic manipulation, simulation, ROS, PyBullet
 
 **Engineering & Tools**  
 Python, C++, MATLAB, Docker, Git, Linux, MLflow, CI/CD, AWS, Azure
 
 ## Experience Areas
 
-- Robotics and reinforcement learning for grasping and manipulation
+
 - Computer vision workflows for industrial inspection and scientific imaging
 - Detection, segmentation, and classification pipelines for real-world data
 - Optimization and AI workflows for engineering applications
+- Robotics and reinforcement learning for grasping and manipulation
+- Robotics and reinforcement learning for grasping and manipulation
+- Eperienced with LLM, RAG, Transformer and agentic AI
 
 ## Technical Interests
 
