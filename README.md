@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Ilyas Raza
 
-Machine Learning Engineer with experience in **computer vision**, **robotics**, **applied AI**, and **deep learning**.
+Machine Learning Engineer with experience in **computer vision**, **robotics**, **applied AI**,**deep learning**,and **data analysis*
 
 My work spans machine learning systems, vision-based solutions, robotic learning, scientific imaging, detection and segmentation, and optimization workflows across research and industry settings.
 
