@@ -1,62 +1,56 @@
 # Hi, I'm Muhammad Ilyas Raza
 
-Robotics Engineer focused on **robot learning**, **reinforcement learning**, and **computer vision**.
+Machine Learning Engineer with experience in **computer vision**, **applied AI**, **deep learning**, and **ML systems**.
 
-I work on robotic manipulation, grasping, simulation-based learning, and vision systems for real-world applications.
+My work spans real-world machine learning applications including vision pipelines, scientific imaging, optimization workflows, detection and segmentation, and AI-driven engineering solutions.
 
 ## About Me
 
-- Robotics Engineer with experience in **robot learning**, **RL**, and **computer vision**
-- Worked on **grasping and manipulation** in simulation using **NVIDIA Isaac Gym** and **PyBullet**
-- Built vision pipelines for **industrial inspection** and **scientific imaging**
-- Interested in **robotic perception**, **manipulation**, **simulation-based learning**, and **embodied AI**
+- Experience in machine learning, computer vision, and applied AI
+- Worked on industrial inspection, microscopy imaging, detection, segmentation, and optimization pipelines
+- Built deep learning and data-driven solutions across research and industry settings
+- Interested in practical AI systems, model development, experimentation, and real-world applications
 
-## Current Focus
+## What I Work On
 
-- Reinforcement learning for robotic manipulation
-- Vision-based grasping
-- Simulation environments for robot learning
-- Applied computer vision for real-world systems
+- Machine Learning
+- Computer Vision
+- Deep Learning
+- Applied AI
+- Scientific Imaging
+- Optimization Pipelines
+- MLOps and ML Engineering
 
 ## Skills
 
-**Robotics & Simulation**  
-NVIDIA Isaac Gym, PyBullet, robotic manipulation, grasping, ROS
+**Machine Learning & AI**  
+PyTorch, TensorFlow, scikit-learn, deep learning, model training, evaluation, predictive modelling
 
-**Machine Learning & Vision**  
-PyTorch, TensorFlow, OpenCV, scikit-learn, YOLO, U-Net, deep learning, image analysis
+**Computer Vision**  
+OpenCV, YOLOv5, U-Net, object detection, image segmentation, image analysis, scientific imaging
 
-**Programming & Tools**  
-Python, C++, MATLAB, Docker, Git, Linux, MLflow, CI/CD
+**Engineering & Tools**  
+Python, C++, MATLAB, Docker, Git, Linux, MLflow, CI/CD, AWS, Azure
 
-## Experience Highlights
+## Experience Areas
 
-- **Research Engineer — INL, Portugal**  
-  Computer vision and deep learning workflows for industrial inspection and scientific imaging
+- Computer vision workflows for industrial inspection and scientific imaging
+- Detection and classification pipelines for experimental and real-world data
+- Optimization and AI workflows for engineering applications
+- Applied machine learning experimentation and system development
 
-- **AI Researcher / Robotics Engineer — Eurecat, Spain**  
-  Reinforcement learning for TIAGo grasping and manipulation in simulation
+## Research / Technical Interests
 
-- **Research Assistant — NED University, Pakistan**  
-  Detection and segmentation pipelines using YOLOv5 and U-Net
+- Applied Machine Learning
+- Computer Vision
+- Deep Learning
+- Scientific Imaging
+- Optimization and Intelligent Systems
+- MLOps and Production ML
 
-## Research Interests
+## Currently
 
-- Robot Learning
-- Reinforcement Learning
-- Robotic Grasping and Manipulation
-- Computer Vision for Robotics
-- Simulation-to-Real Transfer
-- Embodied AI
-
-## Featured Work
-
-I’m currently organizing my repositories to better showcase projects in:
-- Robotic grasping
-- Reinforcement learning
-- Computer vision
-- Detection and segmentation
-- Robotics simulation
+I’m organizing my repositories to better present projects in machine learning, computer vision, applied AI, and engineering-focused research.
 
 ## Connect With Me
 
